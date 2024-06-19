@@ -1,5 +1,9 @@
 /*
- *	Color class
+ * Color class
+ *
+ * @author Mitchell Mahlum
+ * email: mtmahlum@wisc.edu
+ * cs username: mmahlum
  */
 public class Color{
 	private String color;

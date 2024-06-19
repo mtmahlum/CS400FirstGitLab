@@ -1,5 +1,9 @@
 /*
  * Test the use of the Color method
+ *
+ * @author Mitchell Mahlum
+ * email: mtmahlum@wisc.edu
+ * cs username: mmahlum
  */
 import java.util.*;
 
